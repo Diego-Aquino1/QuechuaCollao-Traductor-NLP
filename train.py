@@ -1,3 +1,5 @@
+# POSSIBLE TRAIN
+
 import numpy as np
 
 import tensorflow as tf
@@ -19,18 +21,18 @@ from configs import ModelConfigs
 configs = ModelConfigs()
 
 # Path to dataset
-en_training_data_path = "Datasets/en-es/opus.en-es-train.en"
-en_validation_data_path = "Datasets/en-es/opus.en-es-dev.en"
-es_training_data_path = "Datasets/en-es/opus.en-es-train.es"
-es_validation_data_path = "Datasets/en-es/opus.en-es-dev.es"
+qc_training_data_path = "data/quechua_train.en"
+qc_validation_data_path = "data/quechua_validation.en"
+es_training_data_path = "data/spanish_train.es"
+es_validation_data_path = "data/spanish_validation.es"
 
 def read_files(path):
     with open(path, "r", encoding="utf-8") as f:
         en_train_dataset = f.read().split("\n")[:-1]
     return en_train_dataset
 
-en_training_data = read_files(en_training_data_path)
-en_validation_data = read_files(en_validation_data_path)
+en_training_data = read_files(qc_training_data_path)
+en_validation_data = read_files(qc_validation_data_path)
 es_training_data = read_files(es_training_data_path)
 es_validation_data = read_files(es_validation_data_path)
 
