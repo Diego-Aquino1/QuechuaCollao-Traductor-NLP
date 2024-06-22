@@ -1,7 +1,17 @@
 # Example data
 
-class ModelConfigs():
+import os
+from mltu.configs import BaseModelConfigs
+from datetime import datetime
+
+# class ModelConfigs():
+class ModelConfigs(BaseModelConfigs):
     def __init__(self):
+        super().__init__()
+        self.model_path = os.path.join(
+            "Models/QC_ES_Transformer",
+            datetime.strftime(datetime.now(), "%Y%m%d%H%M"),
+        )
         self.num_layers = 4
         self.d_model = 128
         self.num_heads = 8
@@ -10,12 +20,12 @@ class ModelConfigs():
         self.batch_size = 16
         self.train_epochs = 50
 
-        # CustomSchedule parameters
-        # self.init_lr = 0.00001
-        # self.lr_after_warmup = 0.0005
-        # self.final_lr = 0.0001
-        # self.warmup_epochs = 2
-        # self.decay_epochs = 18
+        # CustomSchedule parameters (To change)
+        self.init_lr = 0.00001
+        self.lr_after_warmup = 0.0005
+        self.final_lr = 0.0001
+        self.warmup_epochs = 2
+        self.decay_epochs = 18
 
     def display(self):
 
