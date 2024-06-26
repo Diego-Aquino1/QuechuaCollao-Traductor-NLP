@@ -21,9 +21,19 @@ def normalize_text(text):
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
     return text
 
+def remove_numbers(text):
+    return re.sub(r'\d+', '', text)
+
 def remove_punctuation(text):
-    text = re.sub(r'[^\w\s]', '', text)
+    # Reemplaza las puntuaciones con un espacio excepto los puntos y signos de interrogación
+    text = re.sub(r'[^\w\s\.]', '', text)
     return text
+
+def split_sentences(text):
+    # Divide el texto en oraciones utilizando los puntos
+    sentences = re.split(r'\.\s*', text)
+    sentences = [sentence.strip() for sentence in sentences if sentence.strip()]
+    return sentences
 
 def remove_stopwords(text, stop_words):
     words = text.split()
@@ -33,9 +43,12 @@ def remove_stopwords(text, stop_words):
 def clean_text(text):
     text = normalize_text(text)
     text = remove_non_ascii(text)
+    text = remove_numbers(text)
     text = remove_punctuation(text)
     text = remove_stopwords(text, stop_words_combined)
-    return text
+    sentences = split_sentences(text)
+    cleaned_text = '\n'.join(sentences)
+    return cleaned_text
 
 def clean_file(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as infile:
@@ -47,7 +60,7 @@ def clean_file(input_file, output_file):
         outfile.write('\n'.join(cleaned_lines))
 
 if __name__ == "__main__":
-    input_file = 'input.txt'
+    input_file = 'quechua_train.txt'
     output_file = 'output.txt'
     clean_file(input_file, output_file)
     print(f"Archivo limpiado guardado como {output_file}")
