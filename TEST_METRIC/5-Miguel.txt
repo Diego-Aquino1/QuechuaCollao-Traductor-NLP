@@ -1,0 +1,2801 @@
+Texto seleccionado: Frío
+Texto de referencia: Chiri
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Duro
+Texto de referencia: Sasa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Manta
+Texto de referencia: Lliklla
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Cojo
+Texto de referencia: Wistu
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Leña
+Texto de referencia: Nina yanta
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Hoyo
+Texto de referencia: Uchku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Gorrión
+Texto de referencia: Gorrión
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Oreja
+Texto de referencia: Rinri
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Maduro
+Texto de referencia: Puqu
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Requesón
+Texto de referencia: Cuaja
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Mentirosa
+Texto de referencia: Llulla
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Marido
+Texto de referencia: Qusa
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Sal
+Texto de referencia: Kachi
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Jilguero
+Texto de referencia: Quri pillpintu
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Dulce
+Texto de referencia: Miski
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Desabrido
+Texto de referencia: Mana saboryuq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Sucio, muy cochino
+Texto de referencia: Qhelli, ancha qhelli
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Bonito
+Texto de referencia: Sumaq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Limpio,claro
+Texto de referencia: Chuya, chuya
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Salado
+Texto de referencia: Kachiyuq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Feo
+Texto de referencia: Millay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Grande
+Texto de referencia: Hatun
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Pequeño
+Texto de referencia: Uchuy
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Grueso
+Texto de referencia: Raku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Angosto
+Texto de referencia: Kichki
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Demasiado
+Texto de referencia: Demasiado
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Liviano
+Texto de referencia: Llampu llasaq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Dolor de cabeza
+Texto de referencia: Uma nanay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Hacer calentar
+Texto de referencia: q’uñichiy
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Hacer quemar
+Texto de referencia: ruphachiy ruway
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Hacer hervir
+Texto de referencia: T’impunanpaq apamuy
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Visitar
+Texto de referencia: Watukuy
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Preguntar
+Texto de referencia: Tapuy
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Cortar
+Texto de referencia: Kuchuy
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Sacar cascara gruesa
+Texto de referencia: Rakhu k’aspita hurquy
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Soplar
+Texto de referencia: Pukuy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Pelar
+Texto de referencia: Tipqay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Tostar
+Texto de referencia: Kanka
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Endulzar
+Texto de referencia: Miskichay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Lavar mano
+Texto de referencia: maki mayllana
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Freír
+Texto de referencia: Fry
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Hacer enfriar
+Texto de referencia: Q’uñichiy
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: No estoy bien
+Texto de referencia: Manam allinchu kachkani
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Tú eres ingeniero
+Texto de referencia: Qamqa ingeniero kanki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Tú escribes hermosas poesías
+Texto de referencia: Sumaq harawikunata qillqanki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Ellos hablan en el mes de julio
+Texto de referencia: Julio killapim rimanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Como gallina en diciembre
+Texto de referencia: Diciembre killapi wallpa hina
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú vuelas desde atrás hasta adelante
+Texto de referencia: Qhepamanta ñawpaqman phawanki
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El hombre que robó camina desde el pueblo hacia la cárcel
+Texto de referencia: Suwakuq runaqa llaqtamanta carcelkama purin
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El agricultor corre desde el maizal hacia su casa
+Texto de referencia: Chakra llamkaqqa sara chakramanta wasinman phawaykun
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ellos caminan desde la laguna hasta el nevado
+Texto de referencia: Lagunamanta rit’i urqukama purinku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Su tío corre
+Texto de referencia: Tiyuyki phawarin
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Cocina con su hija
+Texto de referencia: Ususinwan kuska yanukun
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Nuestro hijos juegan
+Texto de referencia: Wawanchikkunaqa pukllanku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú vives con nuestra mamá
+Texto de referencia: Mamaykuwan tiyanki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La abuela y el niño van hacia la derecha
+Texto de referencia: Hatun mamawan wawawan pañaman rinku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Trabajaste con tu hermana
+Texto de referencia: Ñañaykiwanmi llamkarqanki
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú eres sacerdote andino
+Texto de referencia: Qamqa andino sacerdote kanki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo juego con mi hermano
+Texto de referencia: Wawqiywan pukllani
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Ellos caminan hacia abajo
+Texto de referencia: Urayta purinku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Su hermano duerme
+Texto de referencia: Wawqen puñun
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Su abuela llora
+Texto de referencia: Hatun mamanqa waqan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Era bastante lejos
+Texto de referencia: Chayqa ancha karuraqmi karqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Yo dormiré
+Texto de referencia: Puñusaqmi
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Estaba durmiendo
+Texto de referencia: Puñuchkarqanim
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Nosotros solemos caminar
+Texto de referencia: Yaqa llapanpim purinchik
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Siempre está helando
+Texto de referencia: Sapa kutim chirillaña
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: En mi chacra siembro oca
+Texto de referencia: Chakraypi gansota tarpuni
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Para la siembra hacemos fiesta
+Texto de referencia: Tarpunapaqmi fiestata ruwanchik
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La fiesta del Perú/Día de la independencia
+Texto de referencia: Perú/Independencia p'unchaw raymi
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Es bueno para curarse de la gripe y la tos
+Texto de referencia: Allinmi gripe, tos hampinapaq.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En mi pueblo crian vaca, cerdo, cuy, gallo, y pato
+Texto de referencia: Llaqtaypi waka, kuchi, conejillo de indias, gallo, anka ima uywanku
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi papá no había cantado (y) así durmió
+Texto de referencia: Papayqa manan takisqachu (hinallataq) chhaynata puñuq
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Raúl habla pero Rodolfo canta
+Texto de referencia: Raúl riman ichaqa Rodolfo takikun
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Rodolfo sube a la laguna después/luego regresa al pueblo
+Texto de referencia: Rodolfoqa lagunamanmi wicharin chaymantataq llaqtaman kutimun
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Y cuál de ellos ha venido?
+Texto de referencia: Hinaspa, ¿mayqentaq hamurqan?
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Que baile cualquiera
+Texto de referencia: Ima tusuytaq pipas
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Nadie quiere estudiar
+Texto de referencia: Manan pipas estudiayta munanchu
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: No hay ninguna vaca
+Texto de referencia: Mana waka kanchu
+Predicción: imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Por favor, me traes pan
+Texto de referencia: Ama hina kaspa, tantata apamuway
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Todos estan sentados
+Texto de referencia: Lliwmi tiyachkanku
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Algunos se habrán alegrado
+Texto de referencia: Wakinqa kusisqachá kanqaku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Desde hoy no hablaras
+Texto de referencia: Kunanmanta pacha manaña rimankichu
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: El pan se hace de trigo
+Texto de referencia: T'antaqa trigomanta rurakun
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ésta soga es de magué
+Texto de referencia: Kay waskaqa maguémanta ruwasqam
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Vengo de tu pueblo
+Texto de referencia: Llaqtaykimantam hamuni
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo pastaba la vaca
+Texto de referencia: Wakata michirqani
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: En donde esta la piedra
+Texto de referencia: Maypitaq rumi kachkan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En dos meses voy a aprender
+Texto de referencia: Iskay killamantam yachasaq
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tu tío vino en caballo
+Texto de referencia: Tiyuykiqa kawallupi hamusqa
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La vaca está en la chakra
+Texto de referencia: Wakaqa chakrapim kachkan
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: Rodolfo está en la casa
+Texto de referencia: Rodolfoqa wasipim kachkan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Raúl está llorando en el lago
+Texto de referencia: Raúlqa quchapi waqachkan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Cogemos peces en el río
+Texto de referencia: Mayupi challwata hapinchik
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Jugamos en el nevado
+Texto de referencia: Ritipi pukllanchik
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Caminan en el cerro
+Texto de referencia: Urqu patapi purinku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Arreé la vaca en el camino
+Texto de referencia: Ñanpi wakata michirqani
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: Corremos en la pampa
+Texto de referencia: Pampaspi phawayku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Escarban en el barro
+Texto de referencia: T’urupi t’oqonku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Hay chirimoya en el árbol
+Texto de referencia: Sacha patapim cherimoya kachkan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Hago leña en la selva
+Texto de referencia: Yunkapi yanta rurani
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Este pasto es para mi vaca
+Texto de referencia: Kay pastuqa wakaypaqmi
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La oficina abre a las 8 de la mañana
+Texto de referencia: Oficinaqa 8 horas tutamantanmi kicharikun
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No hablo castellano.
+Texto de referencia: Manam kastilla simita rimanichu.
+Predicción: imatá
+--------------------------------------------------
+Texto seleccionado: Tendrá problemas para otros trámites
+Texto de referencia: Huk ruwaykunawanpas sasachakuyniyuqmi kanki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi abuelo llevaba un sombrero marrón
+Texto de referencia: Abueloyqa q’illu sombreroyuqmi kasqa
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las ovejas estaban en el campo
+Texto de referencia: Ovejakunaqa chakrapim kachkasqaku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Prefiero hablar solamente en quechua
+Texto de referencia: Quechua simillapi rimayta munani
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Trabajo desde lunes hasta viernes
+Texto de referencia: Lunesmanta vierneskamam llamkani
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú comes el martes
+Texto de referencia: Martes punchawmi mikunki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Damos de comer a la Pachamama en el mes de abril
+Texto de referencia: Abril killapim Pachamamataqa mikuchinchik
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tu padre canta
+Texto de referencia: taytayki takikun
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Ustedes comen con su nieto
+Texto de referencia: Willkaykiwanmi mikunki
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Nosotros cantamos con nuestro bebé
+Texto de referencia: Wawaykuwanmi takiyku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Su sobrino pastorea
+Texto de referencia: Sobrinon michiqkuna
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Hablamos con nuestro hermano
+Texto de referencia: Wawqenchikwanmi rimanchik
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Ellos van hacia la izquierda hasta la puerta
+Texto de referencia: Punkukamam lluqiman rinku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nuestras esposas recogen la flor
+Texto de referencia: Warminchikkunaqa t’ikatam pallanku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Ustedes se rieron con vuestro hermano
+Texto de referencia: Wawqeykiwanmi asikurqanki
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Hablé con tu papá
+Texto de referencia: Papaykiwanmi rimarqani
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Tu abuela cocina
+Texto de referencia: Hatun mamayki yanukun
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Antes la gente trabajaba por compromiso de ayuda mutua
+Texto de referencia: Ñawpaqtaqa runakunaqa yanapanakunankupaqmi llamkaqku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ella vive en Lima
+Texto de referencia: Payqa Lima llaqtapi tiyan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Tu mamá es dentista
+Texto de referencia: Mamaykiqa kiru hampiqmi
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La valeriana posee muchísimas raíces
+Texto de referencia: Valerianqa achka saphiyuqmi
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: Él/ella es odontóloga
+Texto de referencia: Payqa kiru hampiqmi
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Las aves llevan en las alas plumas grandes y gruesas
+Texto de referencia: Pisqukunaqa rapranpi hatun, rakhu p'altayuqmi.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En los terrenos salitrosos, la sal madura
+Texto de referencia: Kachiyuq allpakunapiqa kachiqa puqun
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi mamá está feliz
+Texto de referencia: Mamayqa kusisqam kachkan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Ya después compraremos el sombrero
+Texto de referencia: Qhepamanmi chay sombrerota rantisaqku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nuestros abuelos trabajan
+Texto de referencia: Hatun tayta mamanchikkuna llamkanku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Mi mamá come
+Texto de referencia: mamaymi mikun
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Todas las personas dormimos con almohada
+Texto de referencia: Llapanchismi almohadawan puñunchis
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El alacrán blanco es un remedio contra la tos convulsiva
+Texto de referencia: Yuraq alacrán nisqaqa tos ferina nisqamanta hampi
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ella camina con mi papá hasta la casa
+Texto de referencia: Payqa papaywan kuska wasiman purin
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él/ella es presidente
+Texto de referencia: Payqa umalliqmi
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Ustedes hablan el jueves
+Texto de referencia: Jueves punchawmi rimanki
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Me lavaré la cara
+Texto de referencia: Uyayta mayllasaq
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Vayamos todititos, sin faltar.
+Texto de referencia: Llapanchik risun, mana pantaspa.
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Canto una mujer
+Texto de referencia: Warmita takini
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Diez persona hablarán
+Texto de referencia: Chunka runakunam rimanqaku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Todos los varones están trabajando
+Texto de referencia: Llapan qharikuna llamk’achkanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él nomás ya que camine
+Texto de referencia: Payqa purillanmi
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Habia poquita agua
+Texto de referencia: Pisi unuqa kasqa
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Me trajeron demasiado
+Texto de referencia: Llumpaytam apamuwarqaku
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Comí bastante/comí harto
+Texto de referencia: Achkatam mikurqani / achkatam mikurqani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Nosotros nos vestiremos
+Texto de referencia: pachakusun
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: ¿Cuándo vas a estudiar?
+Texto de referencia: ¿Hayk’aqmi estudianki?
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Dónde has estado?
+Texto de referencia: ¿Maypitaq karqanki?
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Vengo en la mañanita
+Texto de referencia: Tutamanta hamuni
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Hasta cuanto sabes contar?
+Texto de referencia: ¿Haykatataq yupayta atiwaq?
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Corro hasta la nieve
+Texto de referencia: Ritimanmi phawaykachani
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Sufro por ti
+Texto de referencia: Qanraykum ñakarini
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Se alegró por besarle
+Texto de referencia: Payqa kusisqa much’aykusqa
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Cocino por mi bebé
+Texto de referencia: Wawaypaqmi yanukuni
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Nos encontramos en el maizal
+Texto de referencia: Sara chakrapi tupayku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Es muy rebaloso el rio
+Texto de referencia: Mayuqa anchatam huntaykuchkan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi mamá y mi papá caminan hacia el pueblo
+Texto de referencia: Mamaywan papaywan llaqtaman purinku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Caminan en parejas
+Texto de referencia: Iskay iskaymanta purinku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Me canse en el baile
+Texto de referencia: Tusuypi sayk’urqani
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Fue en compañía de su mamá
+Texto de referencia: Mamanwan kuska rirqa
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las personas se dedican a todo tipo de trabajo
+Texto de referencia: Runakunaqa tukuy rikchaq llamkaykunapim llamkanku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Deja a cualquiera este cuchillo
+Texto de referencia: Kay cuchillotaqa pimanpas saqiy
+Predicción: kay a imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Todos cocinamos
+Texto de referencia: Llapanchikmi yanunchik
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Construyo solo mi casa
+Texto de referencia: Sapallaymi wasiyta hatarichini
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: El mismo va a la escuela
+Texto de referencia: Pay kikinmi yachay wasiman rin
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nadie baila
+Texto de referencia: mana pipas tusunchu
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Mi papá no trabaja
+Texto de referencia: Taytayqa manam llamkanchu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Dice que no hay
+Texto de referencia: Mana kanchu nin
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Dice que no vas a comer
+Texto de referencia: Mana mikhunkichu nin
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En mi pueblo al abuelo eulogio lo fetejan
+Texto de referencia: Llaqtaypi abuelo Eulogiota raymichanku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No hay nadie
+Texto de referencia: Mana pipas
+Predicción: imatá
+--------------------------------------------------
+Texto seleccionado: Trabajo el lunes
+Texto de referencia: lunes punchawpi llamkay
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La boca es para comer
+Texto de referencia: Simiqa mikhunapaqmi
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: Quiero hablar contigo
+Texto de referencia: Qankunawan rimayta munani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Trabajaré con la yunta
+Texto de referencia: Chay equipowanmi llamkasaq
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Con el perro y con el gato juegan
+Texto de referencia: Allquwan, misiwan pukllanku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Con la yunta ara el toro
+Texto de referencia: Yuntawanmi toroqa yapun
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Voltearé la tierra con el tirapie
+Texto de referencia: Pukllanawan kay pachata muyuchisaq
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Rodolfo y Raúl (mas) están cantando
+Texto de referencia: Rodolfowan Raúlwan (mas) takichkanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi papá y con mi mamá trabajan
+Texto de referencia: Papaywan mamaywan llamkanku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Te espero hasta diez de la mañana
+Texto de referencia: Chunka tutamantakama suyasqayki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: ¿Hasta cuantosabes contar?
+Texto de referencia: ¿Haykatataq yupayta atiwaq?
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Vienes al techado (de casa)
+Texto de referencia: Qanmi hamunki (wasipa) qatanman .
+Predicción: • imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Me caí en el pedregal
+Texto de referencia: Rumikunamanmi urmaykurqani
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nos encontramos en el maiza
+Texto de referencia: Sara chakrapi tupayku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La olla está muy arenoso
+Texto de referencia: Mankaqa ancha rit’iyuqmi
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: Es muy rebaloso el rio
+Texto de referencia: Mayuqa anchatam huntaykuchkan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Jóvenes y señoritas vengan
+Texto de referencia: Wayna sipaskuna hamunku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Esposos y esposas están durmiendo
+Texto de referencia: Qosapas warmipas puñushanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Padres de familia, les saludo
+Texto de referencia: Tayta mamakuna, napaykuyki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Les hablaré a todos jóvenes
+Texto de referencia: Llapa wayna sipaskunawanmi rimasaq
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Algunos padres y madres cantan
+Texto de referencia: Wakin taytakuna mamakuna takinku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Hermanos y hermanas les saludamos
+Texto de referencia: Wawqe panaykuna napaykamuykiku
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Mis hermanos y hermanas pastorean la vaca
+Texto de referencia: Wawqe panaykuna wakata michinku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mujeres y varones trabajan
+Texto de referencia: Warmikunapas, qarikunapas llamkanku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Esposa y esposo baila/(las) parejas bailan
+Texto de referencia: Warmiwan qusawan tusunku/(chay) casarasqakuna tusunku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi mamá y mi papá caminan hacia el pueblo
+Texto de referencia: Mamaywan papaywan llaqtaman purinku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las personas se dedican a todo tipo de trabajo
+Texto de referencia: Runakunaqa tukuy rikchaq llamkaykunapim llamkanku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Se realiza todo tipo de fiestas
+Texto de referencia: Tukuy laya raymikuna rurakun
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Para la siembra hacemos fiesta
+Texto de referencia: Tarpunapaqmi fiestata ruwanchik
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Quien sea trabaje la chacra
+Texto de referencia: Pipas chakrapi llamkaq
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Deja a cualquiera este cuchillo
+Texto de referencia: Kay cuchillotaqa pimanpas saqiy
+Predicción: kay a imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Que baile cualquiera
+Texto de referencia: Ima tusuytaq pipas
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Hablan todos los niños
+Texto de referencia: Llapan warmakunam rimanku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Algunas señoritas caminan
+Texto de referencia: Wakin señoras purinku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Construyo solo mi casa
+Texto de referencia: Sapallaymi wasiyta hatarichini
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: El mismo va a la escuela
+Texto de referencia: Pay kikinmi yachay wasiman rin
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Algunas mujeres están hablando
+Texto de referencia: Wakin warmikuna rimachkanku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Todos los varones están trabajando
+Texto de referencia: Llapan qharikuna llamk’achkanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Herido
+Texto de referencia: Kirisqa
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Huérfano
+Texto de referencia: Wakcha
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Mentira
+Texto de referencia: Llullay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Muerto
+Texto de referencia: Wañuchisqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Pobre
+Texto de referencia: Wakcha
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Anciano
+Texto de referencia: Machu runa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Caquexia
+Texto de referencia: Cachexia nisqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Reprender
+Texto de referencia: K’amiy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Cruz
+Texto de referencia: Chinpay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Granizo
+Texto de referencia: Napaykuy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Paludismo
+Texto de referencia: Malaria unquy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Infortunio
+Texto de referencia: Desgracia
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Noche
+Texto de referencia: Tutapi
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Llovizna
+Texto de referencia: Ch’allay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Árbol
+Texto de referencia: Sacha
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Primeras papas
+Texto de referencia: ñawpaq papakuna
+Predicción: • imaynatá
+--------------------------------------------------
+Texto seleccionado: Helada
+Texto de referencia: Escarcha
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Granos
+Texto de referencia: Muru
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Problemas
+Texto de referencia: Pantaykuna
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Sangre
+Texto de referencia: Yawar
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Despreciado
+Texto de referencia: Despreciasqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Culpable
+Texto de referencia: Huchayuq
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Quemado
+Texto de referencia: Ruphasqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Suicida
+Texto de referencia: Kikin wañuchikuy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Separarse
+Texto de referencia: T’aqakuy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Torturar
+Texto de referencia: Ñakarichiy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Violencia física
+Texto de referencia: Aychapi maqanakuy
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Trabajo
+Texto de referencia: Llamkay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: sufrir
+Texto de referencia: ñakariy
+Predicción: • imaynatá
+--------------------------------------------------
+Texto seleccionado: Enfermarse
+Texto de referencia: Unqunanpaq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: reventar
+Texto de referencia: tuqyay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Contaminar de mala suerte
+Texto de referencia: Mana allin suerteta qhellichay
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Enmudecer
+Texto de referencia: Upallalla
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Caer
+Texto de referencia: Chakiy mita
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Sufrir Necesidades, desperdiciarse
+Texto de referencia: Ñak’ariy Necesidades, usuchisqa kay
+Predicción: • imaynatá
+--------------------------------------------------
+Texto seleccionado: Quedarse Rendido, inmovilizado
+Texto de referencia: Qhepakuy Entregasqa, mana kuyuchisqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Escarmentar
+Texto de referencia: chasten
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Engañar
+Texto de referencia: Yukay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Dar Fin, rematar
+Texto de referencia: Tukuchiy, tukupay
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Apolillarse
+Texto de referencia: ch’uspi mikhusqaman tukupuy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Envejecer, raer la ropa usándola
+Texto de referencia: Machuyay, p’achaykikunata churakuspa llik’iy
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Empujar
+Texto de referencia: Tanqay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: No puedo
+Texto de referencia: Manam atinichu
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Se me perdió mi lampa
+Texto de referencia: Lamparayta chinkachirqani
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No entra porque es demasiado grande
+Texto de referencia: Manataqmi tupanchu llumpay hatun kasqanrayku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Me duele la muela
+Texto de referencia: Kiruymi nanawan
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Me hace mal
+Texto de referencia: Mana allintam ruwawan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Quiero hablar contigo
+Texto de referencia: Qankunawan rimayta munani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Está lloviendo
+Texto de referencia: Paramuchkan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Dice que mi madre murió
+Texto de referencia: Mamay wañupusqa nin
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Solía jugar fútbol
+Texto de referencia: Ñawpaqqa futbolta pukllaq kani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Están yendo rápido al pueblo
+Texto de referencia: Usqhaylla llaqtaman rishanku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La espina pinchó mi pie
+Texto de referencia: Chay kichkaqa chakiytam toqyarurqa
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: No hay nada para comer
+Texto de referencia: Manam ima mikuypas kanchu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Me pidió que le diera de comer
+Texto de referencia: Mikhuchinaypaqmi niwarqa
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Sufro mucho con el frío
+Texto de referencia: Chiriwanqa anchatam ñakarini
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Se enflaqueció por no comer
+Texto de referencia: Mana mikhusqanraykum llañuyarurqa
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Juan tiene muchas hijas
+Texto de referencia: Juanqa achka warmi churinkunayuqmi
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: No sabe caminar
+Texto de referencia: Mana puriyta yachanchu
+Predicción: imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: El anciano falleció
+Texto de referencia: Chay machuchaqa wañupusqa
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Este pan se ha puesto muy duro
+Texto de referencia: Kay t’antaqa sinchi k’ulluyapun
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él me pegó
+Texto de referencia: Payqa maqaruwarqa
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Mario se ha enfermado con la gripe
+Texto de referencia: Marioqa gripewanmi onqosqa kashan
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No se escribir
+Texto de referencia: Manam qillqayta yachanichu
+Predicción: imatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Las personas gordas comen bastante, pero tienen dificultades para correr
+Texto de referencia: Wira runakunaqa achkatam mikunku, ichaqa sasachakunkum kallpanankupaq
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No te aproximes mucho a mí
+Texto de referencia: Ama nishuta asuykamuwaychu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Por qué suspiras?
+Texto de referencia: ¿Imanasqataq suspiranki?
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Cuando no va a llover, hasta el cielo se pone de color azul.
+Texto de referencia: Mana paramuptinqa hanaq pachapas azulmanmi tikrakun.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Cualquier problema tiene solución menos la muerte.
+Texto de referencia: Ima sasachakuypas allichayniyuqmi, wañuyllamantaqa.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Un bus con pasajeros se ha caído al barranco
+Texto de referencia: Huk autobus pasajerokunawan urmaykusqa chay barrancaman
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Un camión ha atropellado a una señora
+Texto de referencia: Huk camionmi huk warmita phawaykusqa
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El chofer está muerto
+Texto de referencia: Chay choferqa wañusqañam
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los dos hombres se pelearon
+Texto de referencia: Chay iskaynin runakunaqa ch’aqwarqanku.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La hormiga junta sus alimentos sabiendo la epoca de lluvia
+Texto de referencia: Ankaqa paray pachata yachaspa mikhunanta huñun
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los sacerdotes usaban sotanas
+Texto de referencia: Sacerdotekunaqa cassocks nisqawanmi churakuqku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Me duele el ilíaco
+Texto de referencia: Ilíacoymi nanawan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La niña asustada empezó a llorar en medio del río
+Texto de referencia: Chay mancharisqa sipasqa mayu chawpipi waqayta qallarisqa
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La envidia nunca es buena
+Texto de referencia: Envidiakuyqa manan hayk’aqpas allinchu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La garrapata enflaquese a los animales chupándoles la sangre
+Texto de referencia: Chay chuspichaqa uywakunata yawarninta chupaspa llañuyachin
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No hay que matar a los sapos
+Texto de referencia: Manan sapokunataqa wañuchinaykichu
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El gato mordió la mano de mi hermano
+Texto de referencia: Misiqa wawqiypa makinta kanirqan
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi vida no es vida
+Texto de referencia: Kawsayniyqa manam kawsaychu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La arañita desciende por su hilo señalando que lloverá
+Texto de referencia: Chay arañachaqa q’aytunmanta uraykamun paramunanta señalaspa
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La aparición de las golondrinas anuncia la presencia de lluvias
+Texto de referencia: Golondrinakunapa rikurimuyninqa para kasqanmantam willakun
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esa persona murió con oclusión intestinal
+Texto de referencia: Chay runaqa intestinal obstrucción nisqawanmi wañupurqan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La polilla había carcomido mi ropa de lana
+Texto de referencia: Chaysi millwa p’achayta mikhusqa
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El pato no tiene miedo a las aguas
+Texto de referencia: Ankaqa manam yakuta manchakunchu
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las personas que se embriagan a menudo pierden parte de su vida
+Texto de referencia: Machasqa runakunaqa sapa kutim huk parten vidankuta chinkachinku
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El hombre anciano camina con bastón
+Texto de referencia: Kuraq runaqa kaspiwan purin
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La madre de mi perrito se murió
+Texto de referencia: Allquypa maman wañukurqa
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Dicen que la laguna se tragó a esas personas
+Texto de referencia: Chay runakunata laguna millp’usqa nispa ninku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El día de mañana no podré venir
+Texto de referencia: Paqarinqa manam hamusaqchu
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Me duelen las articulaciones de los pies por el frío
+Texto de referencia: Chakiypa articulacionninkunam chirirayku nanawan.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Me duele la cabeza por estar sin sombrero en el sol
+Texto de referencia: Intipi mana sombreroyuq kasqaymanta umaymi nanawan.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las plantitas transplantadas en pleno sol se marchitan muy rápidamente
+Texto de referencia: Tukuy intipi tarpusqa yurakunaqa ancha utqayllam ch’akipun
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El gato humilló al ratón
+Texto de referencia: Misiqa siwitaqa p’enqaykurqan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No hay ningún árbol frutal
+Texto de referencia: Ruru sachaqa manam kanchu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Si estamos enojados, nunca podemos hacer bien las cosas
+Texto de referencia: Piñasqa kaspaqa manan hayk’aqpas allintaqa ruwayta atisunmanchu
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El señor Juan se había quebrado el hueso del pie
+Texto de referencia: Tayta Juanqa chaki tullunta p’akisqa
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Al volear la pelota, me torcí el dedo meñique de la mano izquierda
+Texto de referencia: Pelotata voleibolta ruwaspaymi lloq’e makiypi dedochata llañuyachirqani
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mañana no podremos ir a jugar
+Texto de referencia: Paqarinqa manam pukllayman riyta atisunchu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Juan no sabe amar
+Texto de referencia: Juanqa manan munakuyta yachanchu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Si me ves lloraré
+Texto de referencia: Rikuwanki chayqa waqasaqmi
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: No tengo hermano ni hermana.
+Texto de referencia: Manam wawqiypas, ñañaypas kanchu.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La escoba de paja se ha terminado
+Texto de referencia: Paja escobaqa tukusqañam
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Regresas rapido de ese puelo lejano
+Texto de referencia: Chay karu llaqtamanta usqhaylla kutimunki
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Pancho causa tristeza a su mama
+Texto de referencia: Panchoqa mamanta llakichin
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú cabeza hueca no se acuerda de nada
+Texto de referencia: Ch'usaq umaykiqa manan imatapas yuyarinchu
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La pulga me picó en las posaderas
+Texto de referencia: Chay pulgaqa wasanpi kaniwarqa
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las casas son muy bonitas en este lugar
+Texto de referencia: Kay kitipiqa wasikunaqa ancha sumaqmi
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: el perro se había comido todo el queso.
+Texto de referencia: Allquqa llapa quesota mikhusqa.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La herida de mi mano ya está cicatrizando.
+Texto de referencia: Makiypi k’iriqa qhaliyashanñan.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los niños malos no dejan de pellizcarme en los brazos o en las orejas.
+Texto de referencia: Mana allin warmakunaqa makiypi utaq rinriypi llachpawankupunim.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: no cabía ni una persona más
+Texto de referencia: manataqmi huk runallapaqñachu sitio karqa
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Un ladron le habia seguido a mi vecino
+Texto de referencia: Huk suwa runamasiyta qatisqa
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El niño que se seguio esta regresando llorando
+Texto de referencia: Qatisqan wawaqa waqaspa kutimuchkan
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El padre hace llorar a su hija con su furia.
+Texto de referencia: Taytaqa phiñakuyninwanmi ususinta waqachin.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La mosquita le había picado la mano de mi hijo
+Texto de referencia: Chay ch’uspichaqa wawaypa makinta kanisqa.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los adinerados siempre humillaron a los pobres.
+Texto de referencia: Qhapaq runakunaqa sapa kutillanmi wakchakunata p’enqayman churaqku.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi perro por el frío se ha encogido.
+Texto de referencia: Allquyqa chiriraykum pisiyarun.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los niños frecuentemente reprendidos se vuelven curtidos
+Texto de referencia: Sapa kuti anyasqa wawakunaqa rumiyapunku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La caña de curcur es más consistente que el carrizo
+Texto de referencia: Curcur kaspiqa aswan hukllachasqam, cañamantaqa
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Juntemos terroncitos secos para asar las ocas
+Texto de referencia: Ch’aki t’aqakunata huñusun gansokunata asnachinapaq
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Me duelen los huesos de la pierna por haberme acostado con la ropa húmeda.
+Texto de referencia: Chakiypa tullunkunaqa nanawarqanmi maqchisqa p’achawan puñusqayrayku.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esta mazamorra de maíz está muy espesa.
+Texto de referencia: Kay sara maqt’aqa ancha rakhu.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las personas danzan con cascabeles.
+Texto de referencia: Runakunaqa campanakunawanmi tusunku.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Esa criatura tiene muchos conocimientos.
+Texto de referencia: Chay unanchaqa achka yachayniyuqmi.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Al ñandú no le podemos dar alcance ni corriendo a caballo.
+Texto de referencia: Caballopi phawaspapas manan rhea nisqataqa hap’iyta atisunmanchu.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En las minas de estaño de Bolivia trabajan muchas personas.
+Texto de referencia: Achka runakunam Bolivia suyupi estaño qhuyakunapi llamkanku.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La comadreja observa a las personas sin ser visto
+Texto de referencia: Comadrejaqa mana rikusqalla runakunata qhawan
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Quién arrancó esas flores?
+Texto de referencia: ¿Pitaq chay t’ikakunata pallarqa?
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: El viento remolino no es común en estos pueblos
+Texto de referencia: Chay llaktakunapiqa mana muyuriq wayraqa kanchu
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La tierra arcillosa o la removida se pone barrosa cuando llueve.
+Texto de referencia: T’urupas, ch’aqwasqa allpapas paramuqtinmi t’uruman tukupun.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los hijos de las parejas alcohólicas nacen tontitos como Marianito.
+Texto de referencia: Machakuq casarasqakunapa wawankunaqa Marianito hinam sonso nacenku.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Dicen que al pestañear se limpia la niña de los ojos.
+Texto de referencia: Ninku, ñawi ch’ipiykuspaqa ñawiykimanta manzana pichakunki nispa.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En un cerrar y abrir de ojos ya no estaban mis compras
+Texto de referencia: Huk ñawi ch’ipiyllapi rantisqaykunaqa manañan karqanchu.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En una quebrada silenciosa el zorro se lo había comido al corderito.
+Texto de referencia: Huk ch’in barrancapi atuqqa chay corderochata mikhusqa.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mientras dure el juicio ella estará en la cárcel.
+Texto de referencia: Juicio kachkaptinqa carcelpim kanqa.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mañana derribaremos esa casa vieja.
+Texto de referencia: Paqarinmi chay mawk’a wasita thuñichisunchis.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Hay que tener compasión de la gente pobre
+Texto de referencia: Wakcha runakunata khuyapayanayki tiyan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Afuera está haciendo frío; entra aquí
+Texto de referencia: Hawapiqa chiri; kayman yaykuy
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No descansemos, esto solamente es una llovizna
+Texto de referencia: Ama samasunchu, kayqa chirilla
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Estando yo aquí presente, ¿por qué suspiras?
+Texto de referencia: Kaypi kachkaptiy, ¿imaraykutaq suspiranki?
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Para curarse de la tos del resfriado es bueno tomarse mates de ortiga crespa
+Texto de referencia: Chiri tos hampinapaqqa, k’uyu ortiga chayta upyayqa allinmi.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Cuando tengo pena pierdo la memoria
+Texto de referencia: Llakisqa kaspayqa manañam yuyariniñachu
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Estuve haciendo adobes, la lluvia nos ha entorpecido
+Texto de referencia: Adobestam ruwachkarqani, param harkawanchik
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi apreciado corazón, mi palomita, mi linda hermana, ͎cuándo vendrás͍
+Texto de referencia: Ancha chaniyoq sonqoy, urpichay, sumaq ñañay, ͎hayk’aq hamunki͍
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Por constantes preocupaciones podemos sufrir un infarto cardíaco
+Texto de referencia: Sapa kuti llakikuyraykum sunqunchikta unquchwan
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tienen mucho que leer, estarán despiertos hasta tarde
+Texto de referencia: Achka ñawinchanapaqmi kanku, tardekamam hatarinqaku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: A las personas jorobadas les dicen que cargan sus mentiras.
+Texto de referencia: Paykunaqa jorobado runakunamanmi willanku llullakuyninkuta apasqankuta.
+Predicción: a imaynatá [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Podemos apelar esa orden
+Texto de referencia: Chay kamachikuytaqa apelasunmanmi
+Predicción: imatá
+--------------------------------------------------
+Texto seleccionado: ¿Cómo se llama tu padre? La verdad es que no me acuerdo
+Texto de referencia: ¿Imataq taytaykipa sutin? Chiqapqa manam yuyarinichu
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Escogeremos las papas agusanadas para los chanchos y las menudas, para el chuño
+Texto de referencia: Kuchikunapaq kuru papakunata, chuñopaqtaq giblets nisqakunata akllasunchik
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las caiguas se preparan y se comen rellenas como el rocoto
+Texto de referencia: Chay caiguakunataqa rocoto hina hunt’asqata wakichinku, mikhunku
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Hermanita, ayúdame a escarbar mis papas; ahí comeremos huatia
+Texto de referencia: Huch’uy ñañay, papayta allanaypaq yanapaykuway; chaypi huatia mikhusun
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esa mujer es quien anda con varios hombres
+Texto de referencia: Chay warmiqa achka qarikunawan kuska puriqmi
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Arranquemos las hojas de la coca sin dañar las yemas.
+Texto de referencia: Coca raphikunata mana waqllichispa llik’isunchik.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los cuyes silvestres se reproducen muchísimo en los pastizales.
+Texto de referencia: Sallqa conejillos de indias nisqakunaqa qura pampakunapim anchata miranku.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Preparemos tablas para techar la casa.
+Texto de referencia: Wasi pataman churanapaq tablakunata wakichisunchik.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El hilo muy torcido se rompe muy fácilmente.
+Texto de referencia: Ancha kirusqa q’aytuqa ancha faciltam pakikun.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los niños estaban comiendo la miel del moscardón
+Texto de referencia: Wawakunaqa botflymanta mielta mikhuchkasqaku.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La hormiga café esta peleando con la hormiga negra
+Texto de referencia: Q’umir ankaqa yana ankawan maqanakun.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esa niña esta llorando
+Texto de referencia: Chay sipasqa waqachkan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: El residuo de esta división es dos
+Texto de referencia: Kay rakinakuypa puchuqninqa iskaymi
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Lee las siguientes oraciones
+Texto de referencia: Kay rimaykunata ñawinchay
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Calcula el valor de la variable x
+Texto de referencia: x nisqa chikanyachiqpa chaninninta yupay
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Al escribir una carta usamos los dos puntos
+Texto de referencia: Qillqata qillqaspaqa ch’ikukunawanmi llamk’achinchik
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Vivo muy afligido
+Texto de referencia: Ancha ñak’arisqa kawsani
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Las alpacas paren a los once meses
+Texto de referencia: Alpakakunaqa chunka hukniyuq killapim wachakunku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mis hermanos son tres, mis hermanas también son tres
+Texto de referencia: Wawqiykuna kimsa, ñañaykunapas kimsa
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los capataces de las haciendas eran unos mentirosos
+Texto de referencia: Chay haciendakunapi capatazkunaqa llulla runakunam karqaku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En las grandes reuniones hay eventos en los que dos participantes se insultan mutuamente
+Texto de referencia: Hatun huñunakuykunapiqa kanmi imapas iskay huñunakuypi kaqkuna insultanakusqanku
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los ojos afectados por el surumpi arden insoportablemente
+Texto de referencia: Surumpiwan unqusqa ñawikunaqa mana aguantay atina ruphanku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La gente debe vivir limpia de toda culpa y sin odios.
+Texto de referencia: Runakunaqa tukuy huchamanta limpio, mana chiqninakuyniyuq kawsananku tiyan.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La perdiz solamente pone tres huevos
+Texto de referencia: Perdizqa kimsa runtullatam churan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En cualquier lugar siempre hay piedras.
+Texto de referencia: Maypipas rumikunaqa kanpunim.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Por motivo de ese comentario se pelearon.
+Texto de referencia: Chay rimasqankuraykum maqanakurqaku.
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Quién desportilló esa taza?
+Texto de referencia: ¿Pitaq chay vasota chipchirqa?
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: En la casa hay muchas gallinas
+Texto de referencia: Chay wasipiqa achka wallpakunam kachkan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Eructamos desagradablemente luego de comer ingiriendo aire.
+Texto de referencia: Mikhusqayku qhepamanmi mana allintachu errorkuyku, wayrata millp’uspa.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi mamá destetó a mi hermanita menor recién a los 3 años.
+Texto de referencia: Mamayqa 3 watanpi kashaqtinllan huch’uy ñañayta ñuñumanta wikch’upurqan.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Dicen que el ladrón estaba trasquilando la llama…
+Texto de referencia: Suwaqa llama rutuchkasqa ninku...
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los árboles crecen muy verdes en los manantes
+Texto de referencia: Sachakunaqa pukyukunapim ancha q’umir wiñan
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El chairo con chuño mal lavado y mal exprimido es agrio.
+Texto de referencia: Mana allin mayllasqa, mana allin siq’isqa chuñoyuq chairoqa q’achu.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las casas de paja las hacemos con palos delgados.
+Texto de referencia: Paja wasikunataqa llañu k’aspikunawanmi ruranchik.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Para mí no quedó nada
+Texto de referencia: Ñoqapaqqa manañam imapas puchurqachu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Escribe las respuestas de las dos preguntas
+Texto de referencia: Iskaynin tapukuypa kutichiyninta qillqay
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Abran su cuaderno de trabajo
+Texto de referencia: Llamkana qillqaykita kichay
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Completa los conectores en el texto
+Texto de referencia: Qillqapi t’inkiqkunata hunt’achiy
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Argumenta tus ideas
+Texto de referencia: Yuyayniykikunata discutiy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Escribe tus argumentos
+Texto de referencia: Argumentoykikunata qillqay
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Cuál es la moraleja de este cuento?
+Texto de referencia: ¿Imataq kay willakuypa moralnin?
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú teatralizarás al zorro
+Texto de referencia: Atuqta dramatizanki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Cuántas estrofas tiene esta canción?
+Texto de referencia: ¿Hayka versiculoyuqtaq kay taki?
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿A cuántos años equivale un año luz?
+Texto de referencia: ¿Hayka watataq k’anchay wataqa tupan?
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Cuál sería la mejor elección?
+Texto de referencia: ¿Imataq aswan allin kanman?
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Selecciona la imagen correcta
+Texto de referencia: Allin siq’ita akllay
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: Resuelve el problema
+Texto de referencia: sasachakuyta allichay
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Resuelve las siguientes divisiones
+Texto de referencia: Kay rakiykunata allichay
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Calcula el dividendo de la siguiente división
+Texto de referencia: Kay qatiq rakiypa rakiyninta yupay
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Flor de oro dividió un pan grande
+Texto de referencia: Quri t’ika rakisqa hatun t’antata
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Cuál es la diagonal del polígono?
+Texto de referencia: ¿Imataq achka kuchupa diagonalnin?
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Observa el precio del pan
+Texto de referencia: Qhawariy t’antapa chaninninta
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Qué es una mediana?
+Texto de referencia: ¿Imataq mediana nisqa?
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: ¿Qué cantidad de mujeres son?
+Texto de referencia: ¿Hayka warmikunataq kan?
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Escribe el signo menos
+Texto de referencia: Qhichwa simita qillqay
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Ella no es una buena madre
+Texto de referencia: Payqa manan allin mamachu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Él está en la cárcel
+Texto de referencia: Payqa carcelpin kashan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: No necesita abogado para este juicio
+Texto de referencia: Kay juiciopaqqa manan abogadota necesitankichu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: No me ayuda con los niños
+Texto de referencia: Manam yanapawanchu warmakunawanqa
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Oveja
+Texto de referencia: Chita
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Puente
+Texto de referencia: Chaka
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Fritura
+Texto de referencia: Rawk’ay
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Oro
+Texto de referencia: Quri
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Avalancha
+Texto de referencia: Avalancha
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Quena
+Texto de referencia: Quena
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Sopa
+Texto de referencia: Lawa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Nariz
+Texto de referencia: Sinqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Diente
+Texto de referencia: Kiru
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Búho
+Texto de referencia: Tuku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Luciérnaga
+Texto de referencia: Nina ch’uspi
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Grasa
+Texto de referencia: Wira
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Podrido
+Texto de referencia: Ismusqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Berro
+Texto de referencia: Barro
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Negro
+Texto de referencia: Yana
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Efectivamente
+Texto de referencia: Chiqaqpuni
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Compadre
+Texto de referencia: Masi
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Lleno
+Texto de referencia: Hunta
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Vacio
+Texto de referencia: Mana imayuq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Azul
+Texto de referencia: Anqas
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Inteligente
+Texto de referencia: Yachaq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Chueco
+Texto de referencia: k’uyusqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Asi es
+Texto de referencia: Chaynam
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: brava
+Texto de referencia: piña
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Pesante
+Texto de referencia: Llasaq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Centro de Salud
+Texto de referencia: Clínica nisqapi
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Mercado
+Texto de referencia: Qatu
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Flor
+Texto de referencia: Wayta
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Queso fresco
+Texto de referencia: Musuq queso
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Huevo
+Texto de referencia: Runtu
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Ají
+Texto de referencia: Chili pimienta
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Sal
+Texto de referencia: Kachi
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Cucharón
+Texto de referencia: Cuchara
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Olla
+Texto de referencia: Wayk’una manka
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Cántaro
+Texto de referencia: Pitcher
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Cuchillo
+Texto de referencia: Kuchuna
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Plato
+Texto de referencia: Pukullu
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Sartén
+Texto de referencia: Sartena
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Carne
+Texto de referencia: Aycha
+Predicción: • imaynatá
+--------------------------------------------------
+Texto seleccionado: Cocina
+Texto de referencia: Yanuna
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Batán
+Texto de referencia: Aswan hunt’asqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Salero
+Texto de referencia: Kachi chhaphchiq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Estoy muy bien
+Texto de referencia: Ancha allinmi kani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Yo aprendo quechua
+Texto de referencia: Aprende quechua
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo soy científico
+Texto de referencia: Ñuqaqa yachaysapam kani
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú eres periodista
+Texto de referencia: Qamqa periodistam kanki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Me sentaré en la silla
+Texto de referencia: Sillapi tiyasaq
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú diriges el pais hacia adelante
+Texto de referencia: Qanmi suyuta ñawpaqman pusanki
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él lleva de un lado a otro el informe
+Texto de referencia: Paymi chay willakuyta huk lawmanta huk lawman apan
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La vaca está abajo
+Texto de referencia: Wakaqa uraypi kachkan
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: Mi padre es Rubén
+Texto de referencia: Taytayqa Rubenmi
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Vine trayendo pan
+Texto de referencia: T'antata apamuspa hamurqani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Tú eres secretaria
+Texto de referencia: Qamqa secretariom kanki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: No digo nada
+Texto de referencia: Manam imatapas ninichu
+Predicción: imatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Me iré a casa
+Texto de referencia: Wasiyman kutisaq
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Vengo de Cusco
+Texto de referencia: Qusqumantam hamuni
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Se dedican a pastar sus animales
+Texto de referencia: Uywankuta michinku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nos sentamos al lado del fogón
+Texto de referencia: Estufapa waqtanpim tiyaykurqaniku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Bailo en el mes de marzo
+Texto de referencia: Marzo killapim tusuni
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ellos duermen en enero
+Texto de referencia: Enero killapim puñunku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú eres brujo
+Texto de referencia: layqa kanki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Ellas habrían pastoreado con sus enamorados
+Texto de referencia: Munakuqninkuwan kuska michinkuman karqan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: De acuerdo a lo que el manda
+Texto de referencia: Kamachisqanman hina
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo miré
+Texto de referencia: Qhawarqani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Ustedes cantan
+Texto de referencia: Qamqa takinki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Nosotros caminaremos
+Texto de referencia: purisaqku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Tú llorarás
+Texto de referencia: Waqanki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Nosotros trabajamos
+Texto de referencia: Llamkayku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Esto pasará
+Texto de referencia: Kaymi pasanqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Estar alerta, no es alarma
+Texto de referencia: Rikch’asqa kayqa manan alarmachu
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Tome asiento
+Texto de referencia: Tiyanayuq kay
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Ella baila
+Texto de referencia: Payqa tusunmi
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Vivo en Arequipa, soy de aquí.
+Texto de referencia: Arequipapi tiyani, kaymanta kani.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Viajaré a Lima por Apurimac.
+Texto de referencia: Apurimac llaqtanta Lima llaqtaman purisaq.
+Predicción: kay a imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Estoy contigo
+Texto de referencia: Qamkunawanmi kachkani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: No hay nada imposible
+Texto de referencia: Manam imapas mana atikuqqa kanchu
+Predicción: imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Estoy comiendo
+Texto de referencia: Mikhuchkani
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: En mi chacra hay papa
+Texto de referencia: Chakraypiqa huk papam kachkan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En mi pueblo hay olluco
+Texto de referencia: Llaqtaypi olluco kan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Rodolfo mira continuamente la vaca
+Texto de referencia: Rodolfoqa sapa kutim wakata qawan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Diana se alegra de su hermana
+Texto de referencia: Dianaqa kusisqam kachkan ñañanrayku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Lloras con ellos
+Texto de referencia: Paykunawan kuska waqanki
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: El lunes compraré un gorro
+Texto de referencia: Lunes punchawmi huk sombrerota rantisaq
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo voy hasta tu casa
+Texto de referencia: Wasiykimanmi risaq
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú caminas con mi mamá
+Texto de referencia: Mamaywan purinki
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él corre desde el cerro hasta su casa
+Texto de referencia: Urqumanta wasinman phawan
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nosotros jugamos con sus perros
+Texto de referencia: Allqunkuwan pukllanchik
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Nosotros comemos a tu gallina
+Texto de referencia: Wallpaykitaqa mikuyku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo estoy comiendo a la gallina
+Texto de referencia: Wallpatam mikuchkani
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú estás viendo la luna
+Texto de referencia: killata rikuchkanki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Nosotros miramos la TV
+Texto de referencia: Televisionta qhawayku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Nuestra madre quiere trabajar
+Texto de referencia: Mamanchikqa llamkayta munan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Tu quieres un escrito
+Texto de referencia: Qillqayta munanki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: El quiere juego
+Texto de referencia: Payqa pukllayta munan
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Nosotros queremos cocinar
+Texto de referencia: Yanukuyta munanchik
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Nosotros queremos lavar ropa
+Texto de referencia: P’achata t’aqsayta munanchis
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Nosotros sabemos ir
+Texto de referencia: riyta yachanchik
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Nosotros sabemos caminar
+Texto de referencia: Puriyta yachanchik
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Ustedes saben subir
+Texto de referencia: Qamqa yachankim wichayta
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Ellos saben cantar
+Texto de referencia: Paykunaqa takiyta yachanku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Tú puedes escoger
+Texto de referencia: Akllayta atinki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Yo sé bailar
+Texto de referencia: Tusuyta yachani
+Predicción: chayrayku
+--------------------------------------------------
+Texto seleccionado: Regrese mañana en la mañana.
+Texto de referencia: Paqarin paqarin kutimuy.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Espere en la fila.
+Texto de referencia: Suyay filapi.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Apagar el celular cuando ingrese a esa sala
+Texto de referencia: Chay cuartoman haykuspaykiqa celularniykita wañuchiy
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Hábleme más lento.
+Texto de referencia: Aswan pisita rimapayaway.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Él vende granos de la chacra al pueblo
+Texto de referencia: Chakramanta granukunata runakunaman rantikun
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Guarde los objetos peligrosos
+Texto de referencia: Peligroso kaqkunata huk ladoman churay
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Vaya a la casa de sus padres
+Texto de referencia: Tayta mamaykipa wasinman riy
+Predicción: kay a imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Un psicólogo va a hacerle preguntas a su hija/o para ayudarla
+Texto de referencia: Huk psicólogo wawaykita tapusunki yanapananpaq
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tiene que traer pruebas
+Texto de referencia: Pruebakunatan apamunayki
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Puede volver en cualquier momento
+Texto de referencia: Ima pachapas kutimuwaqmi
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ustedes son profesores
+Texto de referencia: Qamkunaqa yachachiqkunam kankichik
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Venga mañana temprano
+Texto de referencia: Paqarin temprano hamuy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Nosotros somos policías
+Texto de referencia: Policiakunan kayku
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo camino desde la izquierda hasta la derecha
+Texto de referencia: Lloq’emanta pañaman purini
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él/ella entra desde este lado hacia aquel lado
+Texto de referencia: Kay ladumanta chay laduman yaykun
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El anciano camina desde las flores hasta la colina
+Texto de referencia: Machuchaqa t’ikakunamanta urqukama purin
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las mujeres van desde sus casas hacia el mercado
+Texto de referencia: Warmikunaqa wasinkumanta qhatuman rinku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los niños se apresuran desde la escuela hacia el bosque
+Texto de referencia: Wawakunaqa yachay wasimanta yunkaman phawaylla purinku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo viví con mis padres
+Texto de referencia: Tayta-mamaywanmi yacharqani
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Ponme el poncho verde
+Texto de referencia: Chay verde ponchota churaway
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Tengo puesta la gorra/sombrero
+Texto de referencia: Ñuqaqa chay gorra/sombrerota churakuni
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Las moscas transportan enfermedades de los basurales a las personas
+Texto de referencia: Ch’uspikunaqa basura wischuykunamanta runakunamanmi unquykunata apanku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él viene desde su colegio hasta aquí
+Texto de referencia: Yachay wasinmanta kayman hamun
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La chicha morada se elabora hirviendo el maíz morado
+Texto de referencia: Chicha morada nisqataqa morado sarata timpuchispa ruranku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La caña de curcur es más consistente que el carrizo
+Texto de referencia: Curcur kaspiqa aswan hukllachasqam, cañamantaqa
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El enfermo va desde su casa hacia el hospital
+Texto de referencia: Unqusqa wasimanta hampina wasiman rin
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las ruinas de ediĮcios antiguos se llaman "pueblos viejos"
+Texto de referencia: Ñawpa pacha wasikunap tuñisqankunataqa "mawka llaqtakuna" ninchikmi.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Cómprame la manta colorida
+Texto de referencia: Chay llimp’i llimp’i mantata rantiway
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Él/ella (es) poeta
+Texto de referencia: Payqa harawiqmi (kan).
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Leyendo escritos reforzamos nuestros saberes
+Texto de referencia: Qillqasqakunata ñawinchaspaqa yachayninchiktam kallpanchanchik
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Conduciremos el agua por canales para regar la chacra de maíz.
+Texto de referencia: Sara chakrata qarpanapaq canales nisqawan yakuta purichisunchik.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La paja de la variedad coya se produce en los lugares húmedos
+Texto de referencia: Coya rikchaq pajataqa chiri kitikunapim ruranku
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nos repartiremos sin discusiones las cosas que dejó nuestro padre
+Texto de referencia: Taytanchikpa saqisqan kaqkunata mana rimarispalla willakusunchik.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nosotros ayudamos al doctor
+Texto de referencia: Doctorta yanapayku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Este muro de piedras se llama hito
+Texto de referencia: Kay rumi pirqataqa hatun ruway nispam sutichanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Dos varas constituyen una brazada
+Texto de referencia: Iskay varakunaqa huk golpe nisqatam ruwan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El es el pastor de vacas
+Texto de referencia: Paymi waka michiq
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Saludémonos de lejos
+Texto de referencia: Karumanta napayakusun
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Ejerza el distanciamiento social
+Texto de referencia: Distanciamiento social nisqa ruway
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Mantenga la calma
+Texto de referencia: Thaklla kay
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: El había jugado
+Texto de referencia: Payqa pukllasqañam
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Me canso después de trabajar
+Texto de referencia: Llamkasqay qipatam sayk’uni
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Vino después de comer
+Texto de referencia: Mikhuymanta qhipaman vino
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Me consta que llegó
+Texto de referencia: Yachanim chayamusqanmanta
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Dicen que todos los días canto
+Texto de referencia: Sapa punchaw takisqaytam ninku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mis padres son buenas personas
+Texto de referencia: Tayta-mamayqa allin runam kanku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Ellos viven conmigo.
+Texto de referencia: Paykunaqa ñuqawanmi tiyanku.
+Predicción: 
+--------------------------------------------------
+Texto seleccionado: Mi padre es un hombre de gran tamaño.
+Texto de referencia: Taytayqa hatun runam.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi mamá es bajita no más.
+Texto de referencia: Mamayqa pisillam.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: El cabello de mi padre ya está blanco y el de mi madre aún no.
+Texto de referencia: Taytaypa chukchanqa yuraqñam, mamaypa chukchanpas manaraqmi.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las piedras están en el río
+Texto de referencia: Rumikunaqa mayupim kachkan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los chanchos viven en el basural
+Texto de referencia: Kuchikunaqa basura wischunapim kawsanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las personas están trabajndo en la chacra
+Texto de referencia: Runakuna chakrapi llamkachkanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Vuestras mamas pasean ovejas
+Texto de referencia: Mamaykikuna uwihata purinku
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Sus mamás han ido al pueblo
+Texto de referencia: Mamankutaq llaqtaman ripunku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Cura la mano torcida
+Texto de referencia: Q’iwisqa maki hampiy
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: El perro come la mazamorra
+Texto de referencia: Allquqa carcelta mikhun
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Veo una estrella
+Texto de referencia: Huk quyllurtam rikuni
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Pedro lleva pan
+Texto de referencia: Pedroqa t’antata apashan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo siembro maiz en mi chacra
+Texto de referencia: Chakraypi sarata tarpuni
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Entre jovenes corriendo se ganan
+Texto de referencia: Wayna sipaskuna phaway chawpipi atipanku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Entre mujeres cocinan la comida
+Texto de referencia: Warmikunaqa mikhunata wayk’unku
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: La vaca está ciega
+Texto de referencia: Wakaqa ñawsa
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: El sapo no tiene sangre
+Texto de referencia: Sapoqa manam yawarniyuqchu
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Papá, tomate esa chicha
+Texto de referencia: Papay, chay chichata apakuy
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: Julia cuelga la carne
+Texto de referencia: Julia aychata warkun
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Juan, acompaña a dormir a tu tatarabuela
+Texto de referencia: Juan, hatun hatun mamaykita pusay puñunanpaq
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mario ayuda a trabajar a nuestro padre
+Texto de referencia: Marioqa taytaykutam yanapan llamkananpaq
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Comienza a llevar la comida a tu tío
+Texto de referencia: Tiyuykiman mikhunata apamuyta qallariy
+Predicción: kay a imaynatá [UNK]
+--------------------------------------------------
+Texto seleccionado: Sigue a tu mama a donde vaya
+Texto de referencia: Mamaykita maymanpas risqanpi qatipay
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La puerta de la escuela está siempre abierta
+Texto de referencia: Yachay wasi punkuqa kichasqapunim
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En mi pueblo crece maíz
+Texto de referencia: Llaqtaypi sara wiñan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En esta mesa está el aceite.
+Texto de referencia: Kay mesapiqa aceitem kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En esa olla está la cucharón.
+Texto de referencia: Chay mankapim cuchara kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En aquel vaso está el agua.
+Texto de referencia: Chay vasopin unu kashan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En esta sal está el charki/carne seca.
+Texto de referencia: Kay kachipi charki/ch’aki aycha.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En aquel refrigeradora está el maíz.
+Texto de referencia: Chay refrigeradorpiqa saram kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En esa tostadora está el ají.
+Texto de referencia: Chay tostadorapi chiliqa kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En esta olla como gallina.
+Texto de referencia: Kay mankapi wallpa hina.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En ese cucharón hay agua.
+Texto de referencia: Chay cucharapiqa unu kan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En aquella casa está mi mamá.
+Texto de referencia: Mamayqa chay wasipim kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En este cántaro está la chicha.
+Texto de referencia: Kay jarrapi chicha.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En ese kero está la sangre.
+Texto de referencia: Chay kero nisqapiqa yawarmi kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esta carne está en la sartén.
+Texto de referencia: Kay aychaqa sartenpim kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En esa mesa está el pan.
+Texto de referencia: Chay mesa patapin t’anta kashan.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En aquella mesa están los huevos.
+Texto de referencia: Chay mesapiqa uhukunam kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Este delicioso rocoto molida esta en el batán.
+Texto de referencia: Kay sumaq ñut’usqa rocotoqa hunt’a molinopin kashan.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Aquella mazamorra apestosa está en el plato.
+Texto de referencia: Chay asnaq carcelqa platopim kachkan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo quiero a una chica linda.
+Texto de referencia: Sumaq sipastam munani.
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú comes una sopa dulce.
+Texto de referencia: Misk’i sopata mikhunki.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él vive en una casa grande.
+Texto de referencia: Hatun wasipi tiyan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo cocino una gallina picante.
+Texto de referencia: Huk picante wallpatam yanuni.
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Hay una sartén malograda.
+Texto de referencia: Huk waqllichisqa sartenmi kachkan.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Nuestro tío hierve el agua turbia.
+Texto de referencia: Tiyuykuqa phuyu unuta timpuchin.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo como esta mazamorra dulce.
+Texto de referencia: Kay misk’i maqt’ataqa mikhuni.
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tú cocinas esa gallina pequeña.
+Texto de referencia: Chay wallpachata yanunki.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Él vive en aquella casa grande.
+Texto de referencia: Chay hatun wasipim tiyan.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nosotros hacemos esta olla hermosa.
+Texto de referencia: Kay sumaq mankata ruranchik.
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Nosotros vamos hacia ese cerro limpio.
+Texto de referencia: Chay chuya urqumanmi richkanchik.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ustedes están en aquella laguna turbia.
+Texto de referencia: Chay tutayaq lagunapim kachkanki.
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ellos bailan en esta bonita canción.
+Texto de referencia: Kay sumaq takiwanmi tusunku.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Yo como sopa de maíz sabrosa.
+Texto de referencia: Sumaq sara sopata mikhuni.
+Predicción: chayrayku [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La refrigeradora esta en la laguna.
+Texto de referencia: Refrigeradorqa lagunapim kachkan.
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: La mano de mi papá sirve para que trabaje.
+Texto de referencia: Papaypa makinwanmi llamkanaypaq yanapawan.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los pies de mis hermanos sirven para que ellos caminen.
+Texto de referencia: Wawqeypa chakinkunam purinankupaq yanapan.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La gata esta caminando.
+Texto de referencia: Misiqa purichkan.
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: La mujer está cocinando.
+Texto de referencia: Warmiqa yanukuchkan.
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: Ustedes perseguían el venado.
+Texto de referencia: Chay ciervota qatipachkarqanki.
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: abaratado
+Texto de referencia: baratochasqa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: ablandar
+Texto de referencia: llampuyachiy
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: abandonar
+Texto de referencia: lluqsiy
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: abaratar
+Texto de referencia: barato
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: chaki
+Texto de referencia: chaki
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: si me envias
+Texto de referencia: kachamuwanki chayqa
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: mayor
+Texto de referencia: yuyaq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: ingle
+Texto de referencia: ingle
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: inquieto
+Texto de referencia: mana samayniyuq
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: hongo
+Texto de referencia: kallanpa
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: la puerta de mi casa
+Texto de referencia: wasiypa punkun
+Predicción: kay paginapi
+--------------------------------------------------
+Texto seleccionado: ustedes cantaran
+Texto de referencia: takinki
+Predicción: [ ]
+--------------------------------------------------
+Texto seleccionado: Vengo comiendo
+Texto de referencia: Mikhuqmi hamuni
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Bailan cantando
+Texto de referencia: Takispa tusunku
+Predicción: kay
+--------------------------------------------------
+Texto seleccionado: Me avisa mintiendo
+Texto de referencia: Llullakuspam niwan
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Quién arrancó esas flores?
+Texto de referencia: ¿Pitaq chay t’ikakunata pallarqa?
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Ese gato es muy jugueton
+Texto de referencia: Chay misiqa ancha pukllaqmi
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: Mientras dure el juicio tú estarás preso
+Texto de referencia: Juicio kashaqtinmi carcelpi wisq’asqa kanki
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los sabios ayudaban a gobernar a los Incas
+Texto de referencia: Yachaysapa runakunaqa inkakunata kamachinankupaqmi yanapakurqaku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La mashua cocida se la hace congelar y se come
+Texto de referencia: Chay wayk’usqa mashuataqa chirichispa mikhunku
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: De la mina de Tintaya extraen el metal llamado cobre
+Texto de referencia: Tintaya minamantaqa cobre sutiyuq q’illayta hurqunku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Dejarás una piedrecita lisa en el camino
+Texto de referencia: Ñanpi llañu rumita saqinkichik
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La granadilla tiene la parte comestible flemosa
+Texto de referencia: Marcun ruruqa llimp’iyuq mikhuyniyuq parteyuqmi
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La tarántula sale de su agujero anunciando la lluvia
+Texto de referencia: Tarantulaqa t’uqunmanta lluqsimun parata willaspa
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las muchachas de la actualidad ya no conocen la huayliya
+Texto de referencia: Kunan pacha sipaskunaqa manañam huayliyataqa riqsinkuñachu
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los terrenos arenosos son «fríos»; por esto producen poco
+Texto de referencia: Riti allpakunaqa "chiri"; Chayraykum pisillata ruruchinku
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En los pueblos, si compramos verduras,nos agregan con hierbas aromáticas.
+Texto de referencia: Ayllu llaqtakunapiqa, verdurakunata rantispaqa q’apayniyuq qurakunata yapanku.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esa tu perra trasladó sus crías a otra madriguera
+Texto de referencia: Chay allquykiqa wawachankunatam huk uchkuman astasqa
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¡Oye bruto! Esa no es la mano izquierda
+Texto de referencia: ¡Hey bruto! Chayqa manam lluqi makichu
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Entre los componentes del telar se encuentran las estacas
+Texto de referencia: Telarpa componentenkuna ukhupin kashan estacakuna
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Vé al pueblo jalando la llama.
+Texto de referencia: Runakuna nina rawrayta aysasqankuta qaway.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Conduce al niño de las manos
+Texto de referencia: Makimanta wawata pusay
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Para barrer el piso de tierra antes se rocía con agua
+Texto de referencia: Manaraq yakuwan ch’aqchuchkaspa allpa pampata pichanapaq
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La envidia nunca es buena, en su lugar mejor es trabajar
+Texto de referencia: Envidiakuyqa manan hayk’aqpas allinchu, aswanpas aswan allinmi llank’ay
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El águila vuela muy alto
+Texto de referencia: Atoqqa ancha altomanmi phawan
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los pobladores de Canas llevan ropa gris
+Texto de referencia: Canas llaqtapi tiyaqkunaqa yuraq p’achawanmi churakunku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Reuniéndonos mañana por la noche dialogaremos y trabajaremos
+Texto de referencia: Paqarin tuta huñunakuspa rimasaqku hinaspa llamkasaqku
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los bailarines están dispares; sobra un hombre
+Texto de referencia: Tusuqkunam mana kaqllachu kanku; huk runa ripurqan
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En otros pueblos la gente come caracoles
+Texto de referencia: Huk llaqtakunapitaq runakunaqa caracolkunata mikhunku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Estuve haciendo adobes, la lluvia nos ha entorpecido.
+Texto de referencia: Adobestam ruwachkarqani, param harkawanchik.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Mi mamá mañana terminará de tejer el poncho.
+Texto de referencia: Mamayqa paqarinmi ponchota awayta tukunqa.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ͎Recién aparentas estar trabajando͍
+Texto de referencia: ͎Llamkachkankiman rikchakunki͍
+Predicción: chayrayku [UNK]
+--------------------------------------------------
+Texto seleccionado: La persona que no quiere comer anda muy flaco.
+Texto de referencia: Mana mikhunata munaq runaqa ancha q’ara.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: A las gallinas hay que cogerlas de la cola.
+Texto de referencia: Wallpakunataqa chupanmanta hap’ina.
+Predicción: a imaynatá [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Desmenuza las hojas secas de la chicchipa y échalas a la olla y bota los tallitos
+Texto de referencia: Chikipa ch’aki raphinkunata ñut’uspa mankaman yapaspa saphikunata wikch’uy.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Muele el ají en el mortero y el maíz en el batán, eso es lo más pertinente.
+Texto de referencia: Chilitaqa morteropi, saratataq molino de relleno nisqapi, chaymi aswan allinqa.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esa lana blanca voy a teñirla a rojo.
+Texto de referencia: Chay yuraq millwa pukata tiñisaq.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Clasifica estos objetos. Haz un grupo de cubos y otro de cilindros
+Texto de referencia: Kay imakunatapas t’aqay. Huk qutu kubokunata, huktataq cilindrokunata ruway
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esos dos niños estaban echados como lagartos
+Texto de referencia: Chay iskay warmakunaqa chuspikuna hinam llullakuchkasqaku
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El día sábado tienes que venir, no vayas a olvidarte.
+Texto de referencia: Sábado punchawmi hamunayki, ama qunqaychu.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El cielo está arriba y el “infierno” está abajo.
+Texto de referencia: Hanaq pachaqa hanaqpin kashan, “infiernotaq” uraypi.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Las alpacas machos pastan en los cerros y las hembras, junto con sus crías, en las pampas.
+Texto de referencia: Qhari alpakakunaqa urqukunapim michinku, warmiñataqmi uñachankunawan kuska pampakunapi.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los pobladores de las punas solían caminar con sandalias hechos de cuero del cuello de las llamas.
+Texto de referencia: Punakunapi tiyaqkunaqa llamakunapa kunkanmanta qaramanta ruwasqa sandaliakunawanmi puriqku.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Tengo dos hijas y tres hijos, en total son cinco hermanos.
+Texto de referencia: Iskay warmi churiyuq, kimsa churiyuq, llapanpiqa pichqa wawqiyuqmi kani.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Niños, trabajemos pronto, terminando de trabajar jugaremos.
+Texto de referencia: Wawakuna, usqaylla llamk'asun, llamk'ayta tukuspa pukllasaqku.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El jaguar trepa los árboles; escondido allí, caza sus presas.
+Texto de referencia: Jaguarqa sachakunaman wicharin; chaypi pakasqa, hap’isqanta hap’in.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Me lavaré la cara, ¿dónde habrá agua͍
+Texto de referencia: Uyayta mayllasaq, maypitaq yaku kanqa?
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El papagayo imita a hablar casi como otras personas.
+Texto de referencia: Loroqa yaqa huk runakuna hinam rimayta qatipakun.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Nuestro vecino tiene una hijita
+Texto de referencia: Vecinoykuqa huk ususichayuqmi
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Ese cerdo es demaciado gordo
+Texto de referencia: Chay kuchiqa llumpay wira
+Predicción: kay [UNK]
+--------------------------------------------------
+Texto seleccionado: En la escuela yo toco el tambor
+Texto de referencia: Yachay wasipiqa tambortam tocani
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¡Anda a hacer callar a ese tu hijo, ya me está molestando!
+Texto de referencia: Riy chay churiykita upallachiy, ñam llakichiwan!
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: ¡Oye niño! Corre llama a tu papá.
+Texto de referencia: ¡Hey Kid! Phaway, papaykita waqyay.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Los toros poseen dos cuernos, en cambio los venados tienen cuatro.
+Texto de referencia: Torokunaqa iskay waqrayuqmi, ciervotaq tawa waqrayuq.
+Predicción: kay [UNK] [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Cuando cabalgo se me adormecen las piernas.
+Texto de referencia: Sillakuqtiyqa chakiykuna llañuyapun.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Si no respiramos aire podemos morir en menos de un minuto.
+Texto de referencia: Mana wayrata samaspaqa manapas huk minutollapim wañuchwan.
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: Esta mazamorra de maíz está muy espesa.
+Texto de referencia: Kay sara maqt’aqa ancha rakhu.
+Predicción: kay [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: La granadilla crece enredándose a los árboles vecinos.
+Texto de referencia: Pasión ruruqa wiñan vecino sach’akunata ch’aqwaspa.
+Predicción: kay [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: En olla rajada ya no se mantiene el agua
+Texto de referencia: Yakuqa manañam raqrasqa mankapi hapinchu
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+Texto seleccionado: El queso preparado con poca sal se avinagra
+Texto de referencia: Pisi kachiwan yanusqa quesoqa vinagremanmi tukupun
+Predicción: kay [UNK] [UNK] [UNK] [UNK]
+--------------------------------------------------
+ChrF++ Score: 40.01240694789082
