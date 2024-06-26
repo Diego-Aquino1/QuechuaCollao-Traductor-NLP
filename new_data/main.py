@@ -1,27 +1,31 @@
+import re
 
-# with open('unnormalize_data.txt', 'r', encoding='utf-8') as file:
-#     lineas = file.readlines()
+data = []
 
-# with open('normalize_data.txt', 'w', encoding='utf-8') as file:
-#     for linea in lineas:
-#         if linea.strip().startswith('"'):
-#             file.write(linea)
+with open('new_data/normalized_data.txt', 'r', encoding='utf-8') as file:
+    for line in file:
+        line = line.strip()
+        if line:
+            data.append(line)
 
-with open('new_data/normalize_data.txt', 'r', encoding='utf-8') as file:
-    lineas = file.readlines()
+english_texts = []
+quechua_texts = []
 
-# English
-# with open('new_data/only_english_data.txt', 'w', encoding='utf-8') as file:
-#     for linea in lineas:
-#         columnas = linea.split('"')
-#         if len(columnas) > 1:
-#             columna_derecha = columnas[1]
-#             file.write(columna_derecha + '\n')
+for line in data:
+    match = re.match(r'"([^"]+)" "([^"]+)"', line)
+    if match:
+        english = match.group(1).strip()
+        quechua = match.group(2).strip()
+        english_texts.append(english)
+        quechua_texts.append(quechua)
 
-# Quechua
-with open('new_data/only_quechua_data.txt', 'w', encoding='utf-8') as file:
-    for linea in lineas:
-        columnas = linea.split('"')
-        if len(columnas) > 1:
-            columna_derecha = columnas[3]
-            file.write(columna_derecha + '\n')
+# Escribir los resultados en archivos de texto
+with open('new_data/english_regex.txt', 'w', encoding='utf-8') as file:
+    for text in english_texts:
+        file.write(text + '\n')
+
+with open('new_data/quechua_regex.txt', 'w', encoding='utf-8') as file:
+    for text in quechua_texts:
+        file.write(text + '\n')
+
+print("Archivos de texto generados correctamente usando expresiones regulares.")
