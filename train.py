@@ -119,7 +119,7 @@ warmupCosineDecay = WarmupCosineDecay(
     initial_lr=configs.init_lr,
     )
 earlystopper = EarlyStopping(monitor="val_masked_accuracy", patience=5, verbose=1, mode="max")
-checkpoint = ModelCheckpoint(f"{configs.model_path}/model.h5", monitor="val_masked_accuracy", verbose=1, save_best_only=True, mode="max", save_weights_only=False)
+checkpoint = ModelCheckpoint(f"{configs.model_path}/model.keras", monitor="val_masked_accuracy", verbose=1, save_best_only=True, mode="max", save_weights_only=False)
 tb_callback = TensorBoard(f"{configs.model_path}/logs")
 reduceLROnPlat = ReduceLROnPlateau(monitor="val_masked_accuracy", factor=0.9, min_delta=1e-10, patience=2, verbose=1, mode="max")
 model2onnx = Model2onnx(f"{configs.model_path}/model.h5", metadata={"tokenizer": tokenizer.dict(), "detokenizer": detokenizer.dict()}, save_on_epoch_end=False)
